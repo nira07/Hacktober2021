@@ -10,9 +10,7 @@ int main()
     cin >> op;
 
     cout << "Enter two operands: ";
-    cin >> num1 >> num2;
-
-    switch(op)
+    cin >> num1 >> num2;switch(op)
     {
         case '+':
             cout << num1+num2;
@@ -36,4 +34,4 @@ int main()
     }
 
     return 0;
-}
+}//thank you for reviewing this
